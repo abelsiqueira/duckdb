@@ -67,6 +67,8 @@ jobs:
           - '1'
         os:
           - ubuntu-latest
+          - macos-latest
+          - windows-latest
         arch:
           - x64
         isRelease:
