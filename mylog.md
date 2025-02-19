@@ -1,0 +1,3 @@
+- Create mingw-w64-x86_64.cmake with the contents of <https://gist.github.com/peterspackman/8cf73f7f12ba270aa8192d6911972fe8/>
+- Create build.sh with the contents of <https://github.com/suvayu/suvayu/blob/master/blog/2025-02-15-duckdb-julia-windows.md>
+- Install mingw-w64 (e.g., with `brew` on Mac)
